@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "input_documents": [
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Breakfast Ideas.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Mains_1.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Mains_2.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Mains_3.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_2.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_3.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_4.pdf",
+      "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T22:26:19.072233"
+  },
+  "extracted_sections": [
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 6,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 8,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 9,
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "section_title": "Untitled Section",
+      "importance_rank": 10,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. Form risotto into balls and stuff with a cube of mozzarella.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. o Pour lime juice over the seafood and let marinate for 30 minutes.",
+      "page_number": 2
+    },
+    {
+      "document": "C:\\Users\\dhanv\\OneDrive\\Desktop\\Adobe_Hackathon\\Adobe-India-Hackathon25\\Challenge_1b\\Collection 3\\PDFs\\Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Oil for frying • Instructions : o Form mixture into balls and fry in hot oil until golden. o Add cumin, turmeric, coriander, and garam masala, cook for 1 minute. Add tomato sauce and simmer for 20 minutes. o Pour lime juice over the seafood and let marinate for 30 minutes.",
+      "page_number": 2
+    }
+  ]
+}
