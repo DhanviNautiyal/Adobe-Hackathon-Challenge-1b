@@ -1,4 +1,4 @@
-# Challenge 1b: Persona-Based Document Analysis
+# Adobe Hackathon Challenge 1b - Persona-Based Document Analysis
 
 ## Overview
 This solution analyzes PDF document collections based on persona and job descriptions to extract relevant sections and perform subsection analysis.
@@ -32,8 +32,8 @@ This solution analyzes PDF document collections based on persona and job descrip
 
 #### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd Adobe-India-Hackathon25/Challenge_1b
+git clone https://github.com/DhanviNautiyal/Adobe-Hackathon-Challenge-1b.git
+cd Adobe-Hackathon-Challenge-1b
 ```
 
 #### 2. Install Tesseract OCR (Optional)
@@ -125,4 +125,9 @@ docker run --rm -v C:\path\to\input:/app/collections -v C:\path\to\output:/app/o
 - Execution time: ≤ 10 seconds for 50-page PDF
 - Model size: ≤ 200MB
 - Network: No internet access required
-- Runtime: CPU with 8 cores, 16GB RAM 
+- Runtime: CPU with 8 cores, 16GB RAM
+
+## Repository Information
+- **Repository**: https://github.com/DhanviNautiyal/Adobe-Hackathon-Challenge-1b.git
+- **Challenge**: Adobe India Hackathon 2025 - Challenge 1b
+- **Type**: Persona-Based Document Analysis 
